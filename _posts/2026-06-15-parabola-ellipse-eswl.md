@@ -2,7 +2,7 @@
 title: "포물선과 타원, 체외충격파쇄석술의 원리"
 date: 2026-06-15
 categories: ["Math"]
-tags: ["Parabola", "Ellipse", "Extracorporeal Shockwave Lithotripsy"]
+tags: ["Parabola", "Ellipse", "Extracorporeal Shockwave Lithotripsy", "한정우T"]
 ---
 
 # 포물선과 타원의 초점 성질, 그리고 체외충격파쇄석술의 원리
