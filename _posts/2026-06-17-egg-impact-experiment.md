@@ -5,6 +5,13 @@ categories: ["Science"]
 tags: ["Physics", "김영민T", "Experiment"]
 ---
 
+# 실험 영상
+
+<video width="100%" controls>
+  <source src="/assets/videos/KakaoTalk_20260617_093408818.mp4" type="video/mp4">
+  브라우저가 영상을 지원하지 않습니다.
+</video>
+
 # 실험 결과 분석 및 고찰
 
 본 실험에서는 80cm 높이에서 계란을 낙하시킨 후 완충 조건에 따른 충돌 시간, 평균 충격력 및 파손 정도를 비교하였다. 실험 결과 맨바닥, 체육복, 쿠션 순으로 충돌 시간이 증가하였으며, 이에 따라 평균 충격력은 감소하는 경향을 보였다.
