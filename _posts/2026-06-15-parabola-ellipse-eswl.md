@@ -143,6 +143,14 @@ tags: ["Parabola", "Ellipse", "Extracorporeal Shockwave Lithotripsy", "한정우
 
 ---
 
+## 참고 사진
+
+<p align="center">
+  <img src="/assets/img/AA.40423430.1.jpg"
+       alt="체외충격파쇄석술과 타원의 초점 원리"
+       width="100%">
+</p>
+
 # 탐구를 통해 얻은 통찰
 
 이번 탐구를 통해 가장 크게 느낀 점은 교과서에서 배우는 수학이 실제 과학기술과 깊게 연결되어 있다는 사실이었다.
