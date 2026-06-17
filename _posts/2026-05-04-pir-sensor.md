@@ -18,7 +18,9 @@ PIR(Passive Infrared) 센서는 주변에서 방출되는 적외선(Infrared)을
 ## 참고 사진
 
 <p align="center">
-  <img src="/assets/img/What-is-PIR-2048x1152.jpeg" width="100%">
+  <img src="/assets/img/What-is-PIR-2048x1152.jpeg"
+       alt="PIR 센서 구조"
+       width="100%">
 </p>
 
 ## PIR 센서의 작동 원리
