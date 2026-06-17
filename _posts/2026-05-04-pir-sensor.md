@@ -15,6 +15,12 @@ PIR(Passive Infrared) 센서는 주변에서 방출되는 적외선(Infrared)을
 
 ---
 
+## 참고 사진
+
+<p align="center">
+  <img src="/assets/img/What-is-PIR-2048x1152.jpeg" width="700">
+</p>
+
 ## PIR 센서의 작동 원리
 
 PIR 센서 내부에는 **피로일렉트릭(Pyroelectric) 물질**로 이루어진 세라믹 소자가 포함되어 있다.
