@@ -6,6 +6,7 @@ order: 4
 
 # Taking One Dose of Curiousity Everyday
 
+
 앞으로 이곳에
 - 학교 탐구 보고서
 - 과학 연구 활동
@@ -15,9 +16,6 @@ order: 4
 를 업로드할 예정입니다.
 
 To be continued... ~
-
-## Instagram
-@rohuvs
 
 ## E-mail
 022094@hafs.hs.kr
