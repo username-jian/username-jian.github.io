@@ -8,7 +8,7 @@ tags: ["Physics", "김영민T", "Experiment"]
 # 실험 영상
 
 <video width="100%" controls>
-  <source src="/assets/videos/KakaoTalk_20260617_093408818.mp4" type="video/mp4">
+  <source src="{{ '/assets/videos/KakaoTalk_20260617_093408818.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 # 실험 결과 분석 및 고찰
