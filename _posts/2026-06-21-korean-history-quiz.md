@@ -1,5 +1,5 @@
 ---
-title: "37~41차시 퀴즈"
+title: "[37 ~ 41차시] 퀴즈"
 date: 2026-06-21
 categories: ["History"]
 tags: ["Quiz"]
